@@ -1225,4 +1225,4 @@ I am currently building my skills in data analytics and working on practical pro
 
 The **Hotel Reservation Database & SQL Analysis Project** demonstrates how SQL can be used to design a relational database and transform hotel reservation data into useful business information.
 
-The project provides a strong practical foundation in **SQL, relational database concepts, data analysis, and business problem-solving**, which are essential skills for a **Data Analyst** role.
+The project provides a strong practical foundation in **SQL, relational database concepts, data analysis, and business problem-solving**, which are essential skills for a **Data Analyst** role.are modified as sql
