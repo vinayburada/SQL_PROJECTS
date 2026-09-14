@@ -1100,7 +1100,7 @@ Hotels can identify cancellation and no-show patterns and develop strategies to 
 
 ---
 
-# 📁 Suggested Repository Structure
+# 📁 Suggested Repository 
 
 ```text
 SQL_PROJECT/
